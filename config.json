@@ -1,0 +1,91 @@
+{
+  "user_id": 1,
+  "playlist_id": 86,
+  "source": "youtube",
+  "producer": "wit",
+  "provider": "علي حمدي علي فاضل",
+  "tag_list": "اللغة، مداخل",
+  "hidden": false,
+  "media": [
+    {
+      "title": "شيخ العمود   مدخل إلي علم اللغة   المحاضرة الاولي 1",
+      "description": "",
+      "duration": "00:42:46",
+      "link": "https://www.youtube.com/watch?v=0dxiuJQHH_o",
+      "transcript_txt": "0dxiuJQHH_o.txt",
+      "transcript_srt": "0dxiuJQHH_o.srt"
+    },
+    {
+      "title": "شيخ العمود   مدخل إلي علم اللغة   المحاضرة الاولي 2",
+      "description": "",
+      "duration": "01:07:57",
+      "link": "https://www.youtube.com/watch?v=TKKrm0dKwMM",
+      "transcript_txt": "TKKrm0dKwMM.txt",
+      "transcript_srt": "TKKrm0dKwMM.srt"
+    },
+    {
+      "title": "شيخ العمود   مدخل إلي علوم اللغة   المحاضرة الثانية 1",
+      "description": "",
+      "duration": "00:55:42",
+      "link": "https://www.youtube.com/watch?v=M872HGKCHZg",
+      "transcript_txt": "M872HGKCHZg.txt",
+      "transcript_srt": "M872HGKCHZg.srt"
+    },
+    {
+      "title": "شيخ العمود   مدخل إلي علوم اللغة   المحاضرة الثانية 2",
+      "description": "",
+      "duration": "00:20:34",
+      "link": "https://www.youtube.com/watch?v=DAl1UahfHJA",
+      "transcript_txt": "DAl1UahfHJA.txt",
+      "transcript_srt": "DAl1UahfHJA.srt"
+    },
+    {
+      "title": "شيخ العمود   مدخل إلي علوم اللغة   المحاضرة الثانية 3",
+      "description": "",
+      "duration": "00:26:51",
+      "link": "https://www.youtube.com/watch?v=hVVGXYLzWXs",
+      "transcript_txt": "hVVGXYLzWXs.txt",
+      "transcript_srt": "hVVGXYLzWXs.srt"
+    },
+    {
+      "title": "شيخ العمود   مدخل إلي علوم اللغة   محاضرة الصرف 1",
+      "description": "",
+      "duration": "00:17:27",
+      "link": "https://www.youtube.com/watch?v=9obSDs34oWA",
+      "transcript_txt": "9obSDs34oWA.txt",
+      "transcript_srt": "9obSDs34oWA.srt"
+    },
+    {
+      "title": "شيخ العمود   مدخل إلي علوم اللغة   محاضرة الصرف 2",
+      "description": "",
+      "duration": "00:17:27",
+      "link": "https://www.youtube.com/watch?v=uAhkuIrFVIU",
+      "transcript_txt": "uAhkuIrFVIU.txt",
+      "transcript_srt": "uAhkuIrFVIU.srt"
+    },
+    {
+      "title": "شيخ العمود   مدخل إلي علوم اللغة   المحاضرة الاخيرة 1",
+      "description": "",
+      "duration": "00:12:39",
+      "link": "https://www.youtube.com/watch?v=fF8EhGUjgzA",
+      "transcript_txt": "fF8EhGUjgzA.txt",
+      "transcript_srt": "fF8EhGUjgzA.srt"
+    },
+    {
+      "title": "شيخ العمود   مدخل إلي علوم اللغة   المحاضرة الاخيرة 2",
+      "description": "",
+      "duration": "00:36:16",
+      "link": "https://www.youtube.com/watch?v=4IEy_uxTWfs",
+      "transcript_txt": "4IEy_uxTWfs.txt",
+      "transcript_srt": "4IEy_uxTWfs.srt"
+    },
+    {
+      "title": "الهندسة باللغة العبرية الفصحى    م  أيمن عبد الرحيم",
+      "description": "",
+      "duration": "01:58:50",
+      "link": "https://www.youtube.com/watch?v=jHbPItGYQyY",
+      "transcript_txt": "jHbPItGYQyY.txt",
+      "transcript_srt": "jHbPItGYQyY.srt"
+    }
+  ]
+}
